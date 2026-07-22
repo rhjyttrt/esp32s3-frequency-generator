@@ -4,7 +4,7 @@ A high performance 3 channel programmable frequency generator built for the **We
 
 [![Simulate on Cirkit Designer](https://img.shields.io/badge/Cirkit%20Designer-Simulate%20Online-blue?style=for-the-badge)](https://app.cirkitdesigner.com/project/6a74417e-ec1c-4245-867d-878b34f4edb9)
 
-![ESP32S3 Frequency Generator Preview](image.png)
+![ESP32S3 Frequency Generator Preview](assets/image.png)
 
 >  **Note:** The interface text on the screen looks scrunched up in this preview because the UI layout was designed specifically for a dual color SSD1306 OLED display with a yellow top section. You can view the full schematic(note its just the UI nothing else) and interactive layout directly on [Cirkit Designer](https://app.cirkitdesigner.com/project/6a74417e-ec1c-4245-867d-878b34f4edb9).
 
