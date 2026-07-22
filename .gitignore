@@ -1,0 +1,6 @@
+build/*
+!build/esp32.esp32.esp32s3/si5351_onS3.ino.merged.bin
+.vscode/
+.git/
+*.elf
+*.map
